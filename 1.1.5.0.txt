@@ -1,0 +1,2 @@
+Tăng tốc độ làm job
+Thêm tự động đăng nhập bằng click (tích auto login): có 2 kịch bản đăng nhập
