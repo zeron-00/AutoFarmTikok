@@ -1,0 +1,2 @@
+Thêm chạy bằng chrome Javascipt, nhẹ hơn khi không add chrome vào form
+Thêm cấu hình tiktok vào tds
