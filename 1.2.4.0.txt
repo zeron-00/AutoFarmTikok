@@ -1,0 +1,2 @@
+Thêm Chạy bằng firefox, không tắt được load hình ảnh + video, không dùng được proxy
+Thêm hiển thị bảng theo cột
