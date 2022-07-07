@@ -1,0 +1,1 @@
+Thêm chờ giải captcha chỉ dùng cho chrome js
