@@ -1,2 +1,2 @@
 Thêm giải captcha từ nguồn có sẵn
-Thêm làm job comment với phương thức copy paste, mặc định focus chrome
+Thêm làm job comment với phương thức copy paste, mặc định focus chrome,không phát hiện block
