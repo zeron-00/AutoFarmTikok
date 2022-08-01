@@ -1,0 +1,4 @@
+Fix lỗi
+Thêm:
++ Làm job theo thứ tự
++ Reset trạng thái thành normal
