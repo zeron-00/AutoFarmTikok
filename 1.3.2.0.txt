@@ -1,0 +1,2 @@
+Thêm dùng useragent cho chrome, nên xóa profile trước khi thêm useragent mới
+cột job là tổng job đã làm, totaljob là tổng job đã báo cáo
