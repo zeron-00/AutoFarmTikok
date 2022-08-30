@@ -1,0 +1,1 @@
+Thêm chế độ làm việc chiếm dụng chuột, không chạy cho chrome trên form
