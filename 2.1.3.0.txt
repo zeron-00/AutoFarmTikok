@@ -1,0 +1,2 @@
+Tự tạo và mở LD, cài tiktok có sẵn từ Config/tiktoknow.apk,
+Tự xóa LD khi bị block
