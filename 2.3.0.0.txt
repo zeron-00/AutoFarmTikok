@@ -1,0 +1,1 @@
+Tạo profile chạy bằng chrome orbita, phải download folder default, nếu không có folder orbita thì chạy bằng chrome thường
